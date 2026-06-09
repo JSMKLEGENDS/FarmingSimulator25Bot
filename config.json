@@ -2,7 +2,7 @@
     "server": {
         "stats_url": "http://your-server-url/feed/dedicated-server-stats.xml",
         "economy_url": "http://your-server-url/feed/dedicated-server-savegame.html?file=economy",
-        "career_savegame_url": "http://your-server-url/feed/dedicated-server-savegame.html?file=careerSavegame"
+        "career_savegame_url": "http://158.220.80.52:9010/feed/dedicated-server-savegame.html?code=G2pqApQwCJBXTNeN&file=careerSavegame"
       },
       "channels": {
         "auto_update_channel_id": "1513950617364725991",

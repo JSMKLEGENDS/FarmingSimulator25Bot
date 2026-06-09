@@ -5,9 +5,9 @@
         "career_savegame_url": "http://your-server-url/feed/dedicated-server-savegame.html?file=careerSavegame"
       },
       "channels": {
-        "auto_update_channel_id": "YOUR_CHANNEL_ID",
-        "prices_channel_id": "YOUR_CHANNEL_ID",
-        "player_notifications_channel_id": "YOUR_CHANNEL_ID"
+        "auto_update_channel_id": "1513950617364725991",
+        "prices_channel_id": "1513950450888736768",
+        "player_notifications_channel_id": "1513950485625831584"
       },
     "intervals": {
         "status_update_seconds": 60,

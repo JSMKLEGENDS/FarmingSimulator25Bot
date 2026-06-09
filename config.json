@@ -1,6 +1,6 @@
 {
     "server": {
-        "stats_url": "http://your-server-url/feed/dedicated-server-stats.xml",
+        "stats_url": "http://158.220.80.52:9010/feed/dedicated-server-stats.html?code=G2pqApQwCJBXTNeN&file=economy",
         "economy_url": "http://158.220.80.52:9010/feed/dedicated-server-savegame.html?code=G2pqApQwCJBXTNeN&file=economy",
         "career_savegame_url": "http://158.220.80.52:9010/feed/dedicated-server-savegame.html?code=G2pqApQwCJBXTNeN&file=careerSavegame"
       },
